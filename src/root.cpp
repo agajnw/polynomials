@@ -8,18 +8,18 @@
 
 Root::Root(double xVal, double yVal)
 {
-	x = xVal;
-	y = yVal;
+    x = xVal;
+    y = yVal;
 }
 
 double Root::getX()
 {
-	return x;
+    return x;
 }
 
 double Root::getY()
 {
-	return y;
+    return y;
 }
 
 
